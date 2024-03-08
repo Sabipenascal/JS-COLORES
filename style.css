@@ -12,3 +12,13 @@ margin: 1rem;
     height: var(--size);
     border: 3px solid black;
 }
+
+.red {
+
+    background-color: red;
+
+}
+
+.blue {
+    background-color: blue;
+}
