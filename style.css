@@ -1,0 +1,14 @@
+* {
+
+padding: 1rem;
+margin: 1rem;
+
+}
+
+.cuadro {
+
+    --size:200;
+    width: var(--size);
+    height: var(--size);
+    border: 3px solid black;
+}
