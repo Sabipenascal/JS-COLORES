@@ -5,8 +5,7 @@ margin: 1rem;
 
 }
 
-.cuadro {
-
+.square {
     --size:200;
     width: var(--size);
     height: var(--size);
