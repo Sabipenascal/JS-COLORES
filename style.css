@@ -10,6 +10,7 @@ margin: 1rem;
     width: var(--size);
     height: var(--size);
     border: 3px solid black;
+    transition: background-color 1s;
 }
 
 .red {

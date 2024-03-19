@@ -1,7 +1,6 @@
-
 function changeColor (color) {
     const square = document.getElementById ('square')
-    square.className = 'square ${color{'
+    square.className = `square ${color}`
 }
  
 function colorChangeButtonOnClickHandler (event) {
